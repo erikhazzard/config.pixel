@@ -1,6 +1,6 @@
 {
   "name": "config.pixel",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Privdes configuration interface for the ngraph.pixel",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/anvaka/config.pixel"
+    "url": "https://github.com/erikhazzard/config.pixel"
   },
   "peerDependencies": {
     "ngraph.pixel": "2.x"
@@ -25,6 +25,6 @@
   "dependencies": {
     "config.layout": "0.1.2",
     "config.view": "2.0.0",
-    "exdat": "^0.6.2"
+    "datgui": "github:erikhazzard/dat.gui"
   }
 }

@@ -1,4 +1,4 @@
-var dat = require('exdat');
+var dat = require('dat.gui');
 var addGlobalViewSettings = require('config.view');
 var addLayoutSettings = require('config.layout');
 
